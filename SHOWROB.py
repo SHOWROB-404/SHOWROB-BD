@@ -33,7 +33,7 @@ def ud():
     print(' [2] EXIT')
     opt = input('\n   Choose option >>> ')
     if opt == '1':
-        os.system('xdg-open https://www.facebook.com/FOYSAL.OFFICIALS.ACCOUNT0075?mibextid=ZbWKwL')
+        os.system('xdg-open https://www.facebook.com/link.diya.ki.hat.marbi.nki?mibextid=ZbWKwL')
         FD()
         return None
     None('\n\x1b[1;31mEXIT\x1b[0;97m')
@@ -46,7 +46,7 @@ def FD():
     print(' [2] EXIT')
     opt = input('\n  \x1b[1;32m Choose option >>> ')
     if opt == '1':
-        os.system('xdg-https://www.facebook.com/FOYSAL.OFFICIALS.ACCOUNT0075' )
+        os.system('xdg-https://www.facebook.com/link.diya.ki.hat.marbi.nki' )
         o()
         return None
     None('\n\x1b[1;31mEXIT\x1b[0;97m')
@@ -66,13 +66,13 @@ def o():
     if opt == '1':
         i()
     if None == '2':
-        os.system('xdghttps://https://www.facebook.com/FOYSAL.OFFICIALS.ACCOUNT0075')
+        os.system('xdghttps://https://www.facebook.com/link.diya.ki.hat.marbi.nki')
         return None
     if None == '3':
-        os.system('xdg-https://www.facebook.com/FOYSAL.OFFICIALS.ACCOUNT0075?mibextid=ZbWKwL ')
+        os.system('xdg-https://www.facebook.com/link.diya.ki.hat.marbi.nki?mibextid=ZbWKwL ')
         return None
     if None == '4':
-        os.system('xdg-open https://www.facebook.com/FOYSAL.OFFICIALS.ACCOUNT0075?mibextid=ZbWKwL')
+        os.system('xdg-open https://www.facebook.com/link.diya.ki.hat.marbi.nki?mibextid=ZbWKwL')
         return None
     if None == '0':
         os.system('exit')
@@ -191,11 +191,11 @@ logo =                                          ("""
                                                                                                                                         
                                                                             
 \033[1;37m================= \33[32;45mFOYSAL\33[0;m =====================
-\033[1;32m     \033[1;33mOwner BY\33[0;m   :  \033[1;33mFOYSAL
-\033[1;32m     \033[1;32mFACEBOK      : \033[1;34m FOYSAL HOSEN 
-\033[1;32m     \033[1;35mYoutube       :  \033[1;35m https://github.com/FOYSAL-404
+\033[1;32m     \033[1;33mOwner BY\33[0;m   :  \033[1;33mSHOWROB
+\033[1;32m     \033[1;32mFACEBOK      : \033[1;34m Mark Showrob 
+\033[1;32m     \033[1;35mYoutube       :  \033[1;35m https://github.com/SHOWROB-404
 \033[1;32m     \033[1;36mTOOL STATUS  :  \033[1;36mTOOL IS FREE
-\033[1;32m     \033[1;35mWHATSAPP       :  \033[1;35m 01793268786
+\033[1;32m     \033[1;35mWHATSAPP       :  \033[1;35m 01739237334
 \033[1;32m     \033[1;36mTOOL VIRSION :  \033[1;36m2.4
 \033[1;37m================= \33[32;45mMR\33[0;m =====================
  
